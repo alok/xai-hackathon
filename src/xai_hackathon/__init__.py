@@ -1,9 +1,11 @@
 import xai_sdk
 from pathlib import Path
 """
-~This module makes a heatmap of gazes on a room. It extracts faces from an image, and then uses a gaze estimation model to estimate the gaze direction of each face.~
+This project analyzes personality traits of people based on their text, and a picture if time allows.
 
-Scratch that, Grok doesn't OUTPUT images. 
+The point is to test the claims of Objective Personality Theory (from the YouTube channel once called 'davesuperpowers' (ikr)).
+
+
 
 
 Since it's for the xAI hackathon, it's gonna use Grok.
