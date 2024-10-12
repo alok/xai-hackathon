@@ -1,64 +1,29 @@
 
-1
-Saviors & Demons
-Read More
-2
-The 4 Letters
-Read More
-3
-Introverted & Extroverted
-Read More
-4
-The 8 Functions
-Read More
-5
-The 4 Quadras
-Read More
-6
-The Function Stack
-Read More
-7
-The 16 Types
-Read More
-8
-The 4 Human Needs
-Read More
-9
-The Jumpers (32 Types)
-Read More
-10
-The 4 Animals
-Read More
-11
-Information & Energy Animals
-Read More
-12
-Savior & Demon Animals
-Read More
-13
-Information & Energy Dominate Types
-Read More
-14
-Introvert & Extrovert Dominate Types
-Read More
-15
-The 128 Types
-Read More
-16
-The 4 Sexual Versions
-Read More
-17
-The 4 Modalities
-Read More
-18
-The 512 Types
-Read More
-19
-The 4 Social Types
-Read More
-20
-Dashboard Activation
-Read More
+1. Saviors & Demons
+
+2. The 4 Letters
+3. Introverted & Extroverted
+4. The 8 Functions
+5. The 4 Quadras
+6. The Function Stack
+7. The 16 Types
+8. The 4 Human Needs
+9. The Jumpers (32 Types)
+10. The 4 Animals
+11. Information & Energy Animals
+12. Savior & Demon Animals
+
+13. Information & Energy Dominate Types
+14. Introvert & Extrovert Dominate Types
+15. The 128 Types
+16. The 4 Sexual Versions
+17. The 4 Modalities
+
+18. The 512 Types
+19. The 4 Social Types
+
+20. Dashboard Activation
+
 TABLE OF CONTENTS
 
 A BEGINNER'S GUIDE
