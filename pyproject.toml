@@ -5,7 +5,24 @@ description = "Add your description here"
 authors = [
     { name = "Alok Singh", email = "alokbeniwal@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "xai-sdk>=0.3.0",
+    "tiktoken>=0.5.1",
+    "torch>=2.4.1",
+    "jaxtyping>=0.2.34",
+    "bidict>=0.23.1",
+    "einops>=0.8.0",
+    "more-itertools>=10.5.0",
+    "ipykernel>=6.29.5",
+    "nbformat>=5.10.4",
+    "notebook>=7.2.2",
+    "jupyter>=1.1.1",
+    "tyro>=0.8.12",
+    "numpy>=2.1.2",
+    "scipy>=1.14.1",
+    "matplotlib>=3.9.2",
+    "plotly>=5.24.1",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
@@ -15,7 +32,9 @@ build-backend = "hatchling.build"
 
 [tool.rye]
 managed = true
-dev-dependencies = []
+dev-dependencies = [
+    "ruff>=0.6.9",
+]
 
 [tool.hatch.metadata]
 allow-direct-references = true
