@@ -18,7 +18,8 @@ Since it's for the xAI hackathon, it's gonna use Grok.
 """
 
 
-PROJECT_ROOT: Path = Path("/Users/alokbeniwal/xai-hackathon")
+PROJECT_ROOT: Path = Path(__file__).parent.parent.parent
+
 INFO_DIR: Path = PROJECT_ROOT / "info"
 DATA_DIR: Path = PROJECT_ROOT / "data"
 
@@ -33,7 +34,7 @@ theory_files = [
         "Sexuals.md",
         "Socials.md",
         # "terms.md",
-        # "elimination-tool.md",
+        "elimination-tool.md",
     )
 ]
 
@@ -125,7 +126,7 @@ def analyze_personality(theory_overview: str, person_text: str) -> str:
 @dataclass
 class Args:
     # path to the person's words
-    person_text_path: Path = PROJECT_ROOT / "data/keanu-reeves.txt"
+    person_text_path: Path = DATA_DIR / "gabor-mate.txt"
 
 
 def main(args: Args) -> None:
@@ -151,3 +152,4 @@ if __name__ == "__main__":
 
 # %%
 #TODO give scratch space to model output for thinking and taking average, have it extract out 
+
